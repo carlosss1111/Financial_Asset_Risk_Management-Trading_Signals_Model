@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1172849598.svg)](https://doi.org/10.5281/zenodo.18868266)
+
 # Financial Asset Risk Management and Trading Signals Model
 
 This repository contains the reproducible code used in the financial experiment and the trading signals model presented in the article:
