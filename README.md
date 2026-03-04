@@ -1,10 +1,12 @@
 # Financial Asset Risk Management and Trading Signals Model
 
-This repository contains the reproducible code used in the financial experiment presented in the article:
+This repository contains the reproducible code used in the financial experiment and the trading signals model presented in the article:
 
 **“A unifying approach to orders on hesitant fuzzy elements with applications to financial risk management and trading signals.”**
 
-The goal of the experiment is to illustrate how order-based comparisons of hesitant fuzzy elements can be applied to model **financial stress and switching decisions between Bitcoin and Ethereum**.
+The goal of the experiment is to illustrate how order-based comparisons of hesitant fuzzy elements can be applied to model **financial stress and switching decisions between Bitcoin and Ethereum**. 
+
+The goal of the trading signal model is to get trading signals (BUY/SELL/HOLD) from $(\alpha,k)-$cuts on finite interval-valued hesitant fuzzy numbers.
 
 The repository includes the implementation used to:
 
