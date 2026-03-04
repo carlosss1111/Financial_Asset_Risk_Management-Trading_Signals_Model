@@ -6,7 +6,7 @@ This repository contains the reproducible code used in the financial experiment 
 
 The goal of the experiment is to illustrate how order-based comparisons of hesitant fuzzy elements can be applied to model **financial stress and switching decisions between Bitcoin and Ethereum**. 
 
-The goal of the trading signal model is to get trading signals (BUY/SELL/HOLD) from $(\alpha,k)-$cuts on finite interval-valued hesitant fuzzy numbers.
+The goal of the trading signal model is to get trading signals (BUY/SELL/HOLD) from (α, k)-cuts on finite interval-valued hesitant fuzzy numbers.
 
 The repository includes the implementation used to:
 
