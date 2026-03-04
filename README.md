@@ -1,2 +1,55 @@
-# Financial_Asset_Risk_Management-Trading_Signals_Model
- This repository contains the code to implement the financial risk management experiment between Bitcoin and Ethereum, as well as the code to run the trading signal model.
+# Financial Asset Risk Management and Trading Signals Model
+
+This repository contains the reproducible code used in the financial experiment presented in the article:
+
+**“A unifying approach to orders on hesitant fuzzy elements with applications to financial risk management and trading signals.”**
+
+The goal of the experiment is to illustrate how order-based comparisons of hesitant fuzzy elements can be applied to model **financial stress and switching decisions between Bitcoin and Ethereum**.
+
+The repository includes the implementation used to:
+
+- construct the hesitant fuzzy representations of market stress,
+- compute order-based comparisons,
+- generate switching decisions between BTC and ETH,
+- reproduce the trading signal experiment reported in the paper.
+
+---
+
+## Repository structure
+
+The repository currently contains:
+
+- `Financial_Asset_Risk_Management_BTCvsETH.ipynb`  
+  Main notebook implementing the financial risk experiment.
+
+- `Trading_Signals_Model.ipynb`  
+  Notebook implementing the trading signal generation model.
+
+- `LICENSE`  
+  MIT license for the code.
+
+---
+
+## Reproducibility
+
+The experiments are fully reproducible.
+
+To run the notebooks you only need a standard Python environment with common scientific libraries (NumPy, Pandas, Matplotlib).
+
+The notebooks can also be executed directly in **Google Colab**.
+
+---
+
+## Related article
+
+This code accompanies the research article:
+
+*Carlos Salvatierra, Pedro Huidobro*
+
+"A unifying approach to orders on hesitant fuzzy elements with applications to financial risk management and trading signals."
+
+---
+
+## License
+
+This project is released under the **MIT License**.
